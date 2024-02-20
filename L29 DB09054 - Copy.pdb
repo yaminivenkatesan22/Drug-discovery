@@ -1,0 +1,74 @@
+HEADER    PROTEIN                                 03-JUL-15   NONE
+TITLE     NULL                                                        
+COMPND    NULL                                                        
+SOURCE    NULL                                                        
+KEYWDS    NULL                                                        
+EXPDTA    NULL                                                        
+AUTHOR    Marvin                                                      
+REVDAT   1   03-JUL-15         0                                  
+HETATM    1  C   UNK     0      -1.334   3.850   0.000  0.00  0.00           C+0
+HETATM    2  C   UNK     0       0.000   4.620   0.000  0.00  0.00           C+0
+HETATM    3  C   UNK     0       6.668   3.850   0.000  0.00  0.00           C+0
+HETATM    4  C   UNK     0       5.335   4.620   0.000  0.00  0.00           C+0
+HETATM    5  C   UNK     0       6.668   2.310   0.000  0.00  0.00           C+0
+HETATM    6  C   UNK     0      -1.334  -2.310   0.000  0.00  0.00           C+0
+HETATM    7  C   UNK     0       4.001   3.850   0.000  0.00  0.00           C+0
+HETATM    8  C   UNK     0       5.335   1.540   0.000  0.00  0.00           C+0
+HETATM    9  C   UNK     0       0.000  -3.080   0.000  0.00  0.00           C+0
+HETATM   10  C   UNK     0      -1.334  -0.770   0.000  0.00  0.00           C+0
+HETATM   11  C   UNK     0      -1.036   7.700   0.000  0.00  0.00           C+0
+HETATM   12  C   UNK     0       4.001   8.470   0.000  0.00  0.00           C+0
+HETATM   13  C   UNK     0       4.001   2.310   0.000  0.00  0.00           C+0
+HETATM   14  C   UNK     0       1.334  -2.310   0.000  0.00  0.00           C+0
+HETATM   15  C   UNK     0       1.334   3.850   0.000  0.00  0.00           C+0
+HETATM   16  C   UNK     0       0.000   0.000   0.000  0.00  0.00           C+0
+HETATM   17  C   UNK     0       1.334  -0.770   0.000  0.00  0.00           C+0
+HETATM   18  C   UNK     0       1.334   6.930   0.000  0.00  0.00           C+0
+HETATM   19  C   UNK     0       1.334   8.470   0.000  0.00  0.00           C+0
+HETATM   20  C   UNK     0       2.667   6.160   0.000  0.00  0.00           C+0
+HETATM   21  C   UNK     0       1.334   2.310   0.000  0.00  0.00           C+0
+HETATM   22  C   UNK     0       2.667   0.000   0.000  0.00  0.00           C+0
+HETATM   23  F   UNK     0       2.667  -3.080   0.000  0.00  0.00           F+0
+HETATM   24  N   UNK     0      -0.131   6.454   0.000  0.00  0.00           N+0
+HETATM   25  N   UNK     0      -0.131   8.946   0.000  0.00  0.00           N+0
+HETATM   26  N   UNK     0       2.667   9.240   0.000  0.00  0.00           N+0
+HETATM   27  N   UNK     0       4.001   6.930   0.000  0.00  0.00           N+0
+HETATM   28  N   UNK     0       2.667   4.620   0.000  0.00  0.00           N+0
+HETATM   29  N   UNK     0       0.000   1.540   0.000  0.00  0.00           N+0
+HETATM   30  N   UNK     0       2.667   1.540   0.000  0.00  0.00           N+0
+HETATM   31  O   UNK     0       4.001  -0.770   0.000  0.00  0.00           O+0
+HETATM   32  H   UNK     0       0.000   3.080   0.000  0.00  0.00           H+0
+CONECT    1    2                                                            
+CONECT    2    1   15                                                       
+CONECT    3    4    5                                                       
+CONECT    4    3    7                                                       
+CONECT    5    3    8                                                       
+CONECT    6    9   10                                                       
+CONECT    7    4   13                                                       
+CONECT    8    5   13                                                       
+CONECT    9    6   14                                                       
+CONECT   10    6   16                                                       
+CONECT   11   24   25                                                       
+CONECT   12   26   27                                                       
+CONECT   13    7    8   30                                                  
+CONECT   14    9   17   23                                                  
+CONECT   15    2   21   28   32                                             
+CONECT   16   10   17   29                                                  
+CONECT   17   14   16   22                                                  
+CONECT   18   19   20   24                                                  
+CONECT   19   18   25   26                                                  
+CONECT   20   18   27   28                                                  
+CONECT   21   15   29   30                                                  
+CONECT   22   17   30   31                                                  
+CONECT   23   14                                                            
+CONECT   24   11   18                                                       
+CONECT   25   11   19                                                       
+CONECT   26   12   19                                                       
+CONECT   27   12   20                                                       
+CONECT   28   15   20                                                       
+CONECT   29   16   21                                                       
+CONECT   30   13   21   22                                                  
+CONECT   31   22                                                            
+CONECT   32   15                                                            
+MASTER        0    0    0    0    0    0    0    0   32    0   72    0
+END
